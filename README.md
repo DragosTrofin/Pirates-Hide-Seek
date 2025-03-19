@@ -1,4 +1,4 @@
-Pirates Hide&Seek is a board game where you have 4 little 9x9 blocks and you are given a challenge and 4 other pieces that you can cover the blocks in order to pass the challenge. The game has 2 themes with soundtrack.  
+Pirates Hide&Seek is a board game where you have 4 little 9x9 blocks and you are given a challenge and 4 other pieces that you can cover the blocks in order to pass the challenge. The game has 2 themes with soundtrack. After making this project I learned about some C++ concepts such as maping and I also used SFML to create the game graphics.
 
 
 ![image](https://github.com/user-attachments/assets/281a8fec-f86b-439b-a9c1-40503340d137)
